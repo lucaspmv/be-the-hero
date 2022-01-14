@@ -6,7 +6,7 @@
 */
 
 /* Tipos de parâmentros:
-  Query Params: Parâmetros nomeados enviados na rota apoís '?'
+  Query Params: Parâmetros nomeados enviados na rota após '?'
   (Filtros, paginação).
   Route Params: Parâmetros utilizados para identificar recursos.
   Request Body: Corpo da requisição, utilizado para criar ou alterar recursos.
